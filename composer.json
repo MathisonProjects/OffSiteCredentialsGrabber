@@ -1,0 +1,19 @@
+{
+    "name": "divinityfound/offsitecredentials",
+    "description": "Grab credentials from outside server with basic authentication.",
+    "authors": [
+        {
+            "name": "Jacob Mathison",
+            "email": "jmathison@bitbasic.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Divinityfound\\OffSiteCredentials": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
